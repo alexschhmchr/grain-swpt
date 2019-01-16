@@ -37,8 +37,8 @@ def load_annotated_data() -> list:
         print(files)
         for x in files:
             with open(DATA_SET_FILEPATH_PREFIX + foldername + '/' + x) as json_file:
-            json_data = json.load(json_file)
-            l.append(json_data)
+                json_data = json.load(json_file)
+                l.append(json_data)
 
     return l
 
