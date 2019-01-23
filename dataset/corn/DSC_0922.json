@@ -1,0 +1,262 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3004,
+          2323
+        ],
+        [
+          2703,
+          1964
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3476,
+          2373
+        ],
+        [
+          3181,
+          2077
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3722,
+          2328
+        ],
+        [
+          3490,
+          2515
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4456,
+          1513
+        ],
+        [
+          4141,
+          1773
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2141,
+          1193
+        ],
+        [
+          1841,
+          1485
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4133,
+          3242
+        ],
+        [
+          3915,
+          2987
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4451,
+          2977
+        ],
+        [
+          4224,
+          3160
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5066,
+          3762
+        ],
+        [
+          4762,
+          3430
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5416,
+          3308
+        ],
+        [
+          5145,
+          3019
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5475,
+          2251
+        ],
+        [
+          5210,
+          1964
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4691,
+          471
+        ],
+        [
+          4343,
+          103
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3548,
+          721
+        ],
+        [
+          3271,
+          1069
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2494,
+          643
+        ],
+        [
+          2222,
+          880
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5562,
+          1101
+        ],
+        [
+          5239,
+          836
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          785,
+          3720
+        ],
+        [
+          412,
+          4000
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "DSC_0922.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}
