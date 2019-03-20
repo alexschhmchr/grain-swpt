@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/grain-swpt.iml" filepath="$PROJECT_DIR$/.idea/grain-swpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grain-swpt.iml" filepath="$PROJECT_DIR$/grain-swpt.iml" />
     </modules>
   </component>
 </project>
