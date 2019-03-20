@@ -1,0 +1,390 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2690,
+          1617
+        ],
+        [
+          2404,
+          1761
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3311,
+          2982
+        ],
+        [
+          3532,
+          3236
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3234,
+          3450
+        ],
+        [
+          3111,
+          3747
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2922,
+          1787
+        ],
+        [
+          2650,
+          1943
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3974,
+          2375
+        ],
+        [
+          4178,
+          2647
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3899,
+          2803
+        ],
+        [
+          3604,
+          2952
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3736,
+          2533
+        ],
+        [
+          3878,
+          2375
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1841,
+          1236
+        ],
+        [
+          1541,
+          1398
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2788,
+          1336
+        ],
+        [
+          3057,
+          1510
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4974,
+          1843
+        ],
+        [
+          5250,
+          1975
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4502,
+          3466
+        ],
+        [
+          4715,
+          3764
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2564,
+          2578
+        ],
+        [
+          2706,
+          2254
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2027,
+          545
+        ],
+        [
+          2264,
+          801
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5809,
+          2512
+        ],
+        [
+          5539,
+          2685
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1809,
+          271
+        ],
+        [
+          2067,
+          412
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5225,
+          2064
+        ],
+        [
+          4946,
+          2243
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3313,
+          47
+        ],
+        [
+          3113,
+          201
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4278,
+          812
+        ],
+        [
+          4443,
+          498
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5248,
+          2308
+        ],
+        [
+          5025,
+          2561
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4825,
+          2759
+        ],
+        [
+          5022,
+          2975
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4913,
+          438
+        ],
+        [
+          4711,
+          187
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4604,
+          2940
+        ],
+        [
+          4774,
+          2731
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5111,
+          803
+        ],
+        [
+          5306,
+          998
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\Bilder_Korner_original_20180411\\triticale\\DSC_1096.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}

@@ -1,0 +1,758 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1574,
+          2066
+        ],
+        [
+          1802,
+          2178
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2169,
+          2391
+        ],
+        [
+          1969,
+          2559
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2609,
+          2559
+        ],
+        [
+          2392,
+          2682
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2271,
+          2494
+        ],
+        [
+          2390,
+          2698
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1697,
+          2887
+        ],
+        [
+          1585,
+          3089
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1976,
+          3303
+        ],
+        [
+          2090,
+          3501
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1995,
+          3519
+        ],
+        [
+          1836,
+          3717
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1869,
+          3889
+        ],
+        [
+          2015,
+          3705
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4150,
+          3808
+        ],
+        [
+          4357,
+          3973
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1274,
+          2926
+        ],
+        [
+          1046,
+          3073
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1406,
+          2861
+        ],
+        [
+          1522,
+          3080
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2088,
+          2312
+        ],
+        [
+          1943,
+          2105
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1190,
+          3289
+        ],
+        [
+          1402,
+          3415
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          655,
+          3668
+        ],
+        [
+          436,
+          3803
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          978,
+          3633
+        ],
+        [
+          1134,
+          3850
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1167,
+          2454
+        ],
+        [
+          939,
+          2331
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1411,
+          2080
+        ],
+        [
+          1267,
+          1868
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1790,
+          1891
+        ],
+        [
+          1576,
+          2012
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1164,
+          3424
+        ],
+        [
+          1022,
+          3626
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4099,
+          1082
+        ],
+        [
+          4004,
+          1291
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5757,
+          1015
+        ],
+        [
+          5585,
+          1168
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5250,
+          2843
+        ],
+        [
+          5406,
+          3036
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4359,
+          1819
+        ],
+        [
+          4522,
+          2003
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5397,
+          2252
+        ],
+        [
+          5541,
+          2480
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5755,
+          2389
+        ],
+        [
+          5946,
+          2591
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          95,
+          2901
+        ],
+        [
+          304,
+          3031
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1278,
+          2389
+        ],
+        [
+          1076,
+          2259
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1109,
+          2587
+        ],
+        [
+          1222,
+          2801
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1392,
+          2550
+        ],
+        [
+          1250,
+          2761
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1602,
+          2419
+        ],
+        [
+          1813,
+          2566
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          543,
+          1180
+        ],
+        [
+          734,
+          1352
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          511,
+          3485
+        ],
+        [
+          274,
+          3359
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1155,
+          1915
+        ],
+        [
+          985,
+          2078
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          315,
+          2598
+        ],
+        [
+          134,
+          2408
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          441,
+          2245
+        ],
+        [
+          634,
+          2080
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5341,
+          131
+        ],
+        [
+          5206,
+          359
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5071,
+          196
+        ],
+        [
+          5206,
+          387
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1281,
+          3047
+        ],
+        [
+          1129,
+          3175
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          992,
+          1015
+        ],
+        [
+          818,
+          1159
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          476,
+          2450
+        ],
+        [
+          353,
+          2291
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          418,
+          2257
+        ],
+        [
+          571,
+          2396
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          632,
+          2775
+        ],
+        [
+          504,
+          2552
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1271,
+          2387
+        ],
+        [
+          1485,
+          2510
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          971,
+          1950
+        ],
+        [
+          813,
+          2157
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1292,
+          2217
+        ],
+        [
+          1122,
+          2036
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          227,
+          3238
+        ],
+        [
+          88,
+          3015
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\Bilder_Korner_original_20180411\\weizen\\DSC_0982.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}
