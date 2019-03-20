@@ -1,0 +1,86 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4344,
+          1748
+        ],
+        [
+          4598,
+          1888
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2908,
+          1335
+        ],
+        [
+          3142,
+          1571
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3738,
+          3535
+        ],
+        [
+          3998,
+          3650
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5077,
+          3719
+        ],
+        [
+          4967,
+          3990
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "DSC_1121.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}
