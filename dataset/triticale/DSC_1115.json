@@ -8,12 +8,12 @@
       "fill_color": null,
       "points": [
         [
-          4321,
-          1708
+          4179,
+          2862
         ],
         [
-          4621,
-          1908
+          4363,
+          2633
         ]
       ],
       "shape_type": "rectangle"
@@ -24,12 +24,12 @@
       "fill_color": null,
       "points": [
         [
-          2900,
-          1346
+          1584,
+          2429
         ],
         [
-          3104,
-          1579
+          1834,
+          2650
         ]
       ],
       "shape_type": "rectangle"
@@ -40,12 +40,12 @@
       "fill_color": null,
       "points": [
         [
-          2638,
-          3458
+          4129,
+          979
         ],
         [
-          2792,
-          3737
+          4463,
+          846
         ]
       ],
       "shape_type": "rectangle"
@@ -56,12 +56,44 @@
       "fill_color": null,
       "points": [
         [
-          688,
-          3687
+          4517,
+          417
         ],
         [
-          854,
-          3975
+          4721,
+          167
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4542,
+          2250
+        ],
+        [
+          4771,
+          1987
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1725,
+          1417
+        ],
+        [
+          1934,
+          1567
         ]
       ],
       "shape_type": "rectangle"
@@ -79,7 +111,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1121.JPG",
+  "imagePath": "..\\DSC_1115.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016

@@ -8,12 +8,12 @@
       "fill_color": null,
       "points": [
         [
-          1829,
-          2192
+          1134,
+          2200
         ],
         [
-          2059,
-          2317
+          984,
+          2025
         ]
       ],
       "shape_type": "rectangle"
@@ -24,12 +24,60 @@
       "fill_color": null,
       "points": [
         [
-          1913,
-          2725
+          1279,
+          1787
         ],
         [
-          2034,
-          2925
+          1396,
+          2017
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3654,
+          1662
+        ],
+        [
+          3838,
+          1496
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2067,
+          367
+        ],
+        [
+          2304,
+          517
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5046,
+          3254
+        ],
+        [
+          5275,
+          3362
         ]
       ],
       "shape_type": "rectangle"
@@ -41,11 +89,11 @@
       "points": [
         [
           3634,
-          3579
+          1754
         ],
         [
-          3396,
-          3475
+          3409,
+          1892
         ]
       ],
       "shape_type": "rectangle"
@@ -56,12 +104,12 @@
       "fill_color": null,
       "points": [
         [
-          1946,
-          242
+          5671,
+          2012
         ],
         [
-          2129,
-          83
+          5825,
+          1808
         ]
       ],
       "shape_type": "rectangle"
@@ -72,12 +120,12 @@
       "fill_color": null,
       "points": [
         [
-          4013,
-          192
+          3296,
+          2596
         ],
         [
-          4129,
-          425
+          3496,
+          2421
         ]
       ],
       "shape_type": "rectangle"
@@ -88,12 +136,12 @@
       "fill_color": null,
       "points": [
         [
-          954,
-          1442
+          3992,
+          3967
         ],
         [
-          1067,
-          1629
+          3821,
+          3771
         ]
       ],
       "shape_type": "rectangle"
@@ -104,12 +152,12 @@
       "fill_color": null,
       "points": [
         [
-          3150,
-          2321
+          4334,
+          3437
         ],
         [
-          3000,
-          2175
+          4559,
+          3312
         ]
       ],
       "shape_type": "rectangle"
@@ -120,12 +168,12 @@
       "fill_color": null,
       "points": [
         [
-          1042,
-          3421
+          1088,
+          1117
         ],
         [
-          1225,
-          3237
+          1259,
+          1258
         ]
       ],
       "shape_type": "rectangle"
@@ -136,12 +184,12 @@
       "fill_color": null,
       "points": [
         [
-          2363,
-          33
+          4671,
+          3642
         ],
         [
-          2542,
-          187
+          4442,
+          3787
         ]
       ],
       "shape_type": "rectangle"
@@ -152,12 +200,12 @@
       "fill_color": null,
       "points": [
         [
-          384,
-          1033
+          5613,
+          3000
         ],
         [
-          596,
-          1175
+          5742,
+          3175
         ]
       ],
       "shape_type": "rectangle"
@@ -168,12 +216,28 @@
       "fill_color": null,
       "points": [
         [
-          2959,
-          3521
+          2434,
+          3854
         ],
         [
-          3159,
-          3650
+          2634,
+          3696
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "weizen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3304,
+          1179
+        ],
+        [
+          3471,
+          1396
         ]
       ],
       "shape_type": "rectangle"
@@ -191,7 +255,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1003.JPG",
+  "imagePath": "..\\DSC_0998.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016

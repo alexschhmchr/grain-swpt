@@ -3,177 +3,177 @@
   "flags": {},
   "shapes": [
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1829,
-          2192
+          4017,
+          1592
         ],
         [
-          2059,
-          2317
+          4159,
+          1817
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1913,
-          2725
+          3867,
+          754
         ],
         [
-          2034,
-          2925
+          4071,
+          512
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3634,
-          3579
+          4217,
+          758
         ],
         [
-          3396,
-          3475
+          4404,
+          1000
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1946,
-          242
+          4842,
+          867
         ],
         [
-          2129,
-          83
+          4975,
+          612
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4013,
-          192
+          3475,
+          2533
         ],
         [
-          4129,
-          425
+          3734,
+          2696
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          954,
-          1442
+          2196,
+          3600
         ],
         [
-          1067,
-          1629
+          2325,
+          3317
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3150,
-          2321
+          4142,
+          3600
         ],
         [
-          3000,
-          2175
+          4259,
+          3867
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1042,
-          3421
+          4479,
+          2550
         ],
         [
-          1225,
-          3237
+          4617,
+          2275
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2363,
-          33
+          4159,
+          2137
         ],
         [
-          2542,
-          187
+          4254,
+          2358
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          384,
-          1033
+          2704,
+          2446
         ],
         [
-          596,
-          1175
+          2846,
+          2246
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2959,
-          3521
+          3459,
+          3125
         ],
         [
-          3159,
-          3650
+          3654,
+          2875
         ]
       ],
       "shape_type": "rectangle"
@@ -191,7 +191,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1003.JPG",
+  "imagePath": "..\\DSC_1058.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016

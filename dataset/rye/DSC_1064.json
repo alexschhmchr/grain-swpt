@@ -3,177 +3,145 @@
   "flags": {},
   "shapes": [
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1829,
-          2192
+          975,
+          1154
         ],
         [
-          2059,
-          2317
+          1221,
+          1025
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1913,
-          2725
+          2575,
+          2212
         ],
         [
-          2034,
-          2925
+          2829,
+          2008
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3634,
-          3579
+          3275,
+          1854
         ],
         [
-          3396,
-          3475
+          3471,
+          1662
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1946,
-          242
+          5788,
+          3012
         ],
         [
-          2129,
-          83
+          5521,
+          3179
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4013,
-          192
+          1409,
+          1571
         ],
         [
-          4129,
-          425
+          1075,
+          1733
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          954,
-          1442
+          2500,
+          1100
         ],
         [
-          1067,
-          1629
+          2225,
+          1312
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3150,
-          2321
+          3154,
+          3250
         ],
         [
-          3000,
-          2175
+          2929,
+          3033
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1042,
-          3421
+          4896,
+          3537
         ],
         [
-          1225,
-          3237
+          5117,
+          3317
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2363,
-          33
+          2013,
+          71
         ],
         [
-          2542,
-          187
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          384,
-          1033
-        ],
-        [
-          596,
-          1175
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2959,
-          3521
-        ],
-        [
-          3159,
-          3650
+          1884,
+          321
         ]
       ],
       "shape_type": "rectangle"
@@ -191,7 +159,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1003.JPG",
+  "imagePath": "..\\DSC_1064.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016

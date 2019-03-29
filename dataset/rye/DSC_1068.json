@@ -3,65 +3,65 @@
   "flags": {},
   "shapes": [
     {
-      "label": "triticale",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4321,
-          1708
+          5142,
+          2704
         ],
         [
-          4621,
-          1908
+          4909,
+          2512
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "triticale",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2900,
-          1346
+          3059,
+          2587
         ],
         [
-          3104,
-          1579
+          3217,
+          2367
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "triticale",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2638,
-          3458
+          2125,
+          942
         ],
         [
-          2792,
-          3737
+          2338,
+          662
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "triticale",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          688,
-          3687
+          5188,
+          3192
         ],
         [
-          854,
-          3975
+          5446,
+          3358
         ]
       ],
       "shape_type": "rectangle"
@@ -79,7 +79,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1121.JPG",
+  "imagePath": "..\\DSC_1068.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016

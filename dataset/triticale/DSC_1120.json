@@ -3,177 +3,193 @@
   "flags": {},
   "shapes": [
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
-        [
-          1829,
-          2192
-        ],
-        [
-          2059,
-          2317
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1913,
-          2725
-        ],
-        [
-          2034,
-          2925
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3634,
-          3579
-        ],
-        [
-          3396,
-          3475
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1946,
-          242
-        ],
-        [
-          2129,
-          83
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4013,
-          192
-        ],
-        [
-          4129,
-          425
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          954,
-          1442
-        ],
-        [
-          1067,
-          1629
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3150,
-          2321
-        ],
         [
           3000,
-          2175
+          2417
+        ],
+        [
+          3209,
+          2192
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1042,
-          3421
+          2434,
+          3267
         ],
         [
-          1225,
-          3237
+          2659,
+          3033
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2363,
-          33
+          1700,
+          2754
         ],
         [
-          2542,
-          187
+          1834,
+          2517
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          384,
-          1033
+          5059,
+          3425
         ],
         [
-          596,
-          1175
+          4854,
+          3179
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2959,
-          3521
+          4667,
+          3042
         ],
         [
-          3159,
-          3650
+          4821,
+          2854
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          600,
+          2033
+        ],
+        [
+          863,
+          1879
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5329,
+          900
+        ],
+        [
+          5504,
+          604
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          659,
+          871
+        ],
+        [
+          884,
+          629
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3588,
+          37
+        ],
+        [
+          3725,
+          308
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4675,
+          321
+        ],
+        [
+          4925,
+          467
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5842,
+          1258
+        ],
+        [
+          5634,
+          1387
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "triticale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          309,
+          412
+        ],
+        [
+          646,
+          296
         ]
       ],
       "shape_type": "rectangle"
@@ -191,7 +207,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1003.JPG",
+  "imagePath": "..\\DSC_1120.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016

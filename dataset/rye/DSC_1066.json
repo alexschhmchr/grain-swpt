@@ -3,65 +3,81 @@
   "flags": {},
   "shapes": [
     {
-      "label": "triticale",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4321,
-          1708
+          4888,
+          2342
         ],
         [
-          4621,
-          1908
+          5038,
+          2121
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "triticale",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2900,
-          1346
+          1050,
+          2671
         ],
         [
-          3104,
-          1579
+          1225,
+          2396
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "triticale",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2638,
-          3458
+          4729,
+          3529
         ],
         [
-          2792,
-          3737
+          4509,
+          3617
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "triticale",
+      "label": "roggen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          688,
-          3687
+          963,
+          3596
         ],
         [
-          854,
-          3975
+          1163,
+          3821
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5304,
+          2008
+        ],
+        [
+          5513,
+          1833
         ]
       ],
       "shape_type": "rectangle"
@@ -79,7 +95,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1121.JPG",
+  "imagePath": "..\\DSC_1066.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016

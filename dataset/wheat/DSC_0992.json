@@ -3,305 +3,289 @@
   "flags": {},
   "shapes": [
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          588,
-          774
+          1000,
+          1733
         ],
         [
-          953,
-          1113
+          1250,
+          1617
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2148,
-          1493
+          1017,
+          2383
         ],
         [
-          1845,
-          1192
+          1242,
+          2242
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          408,
-          3711
+          2638,
+          1758
         ],
         [
-          785,
-          4002
+          2817,
+          1971
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3002,
-          2327
+          1913,
+          2162
         ],
         [
-          2700,
-          1970
+          2096,
+          2004
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2223,
-          636
+          684,
+          1379
         ],
         [
-          2499,
-          888
+          954,
+          1262
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3178,
-          2074
+          1954,
+          737
         ],
         [
-          3481,
-          2371
+          2054,
+          917
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4699,
-          474
+          1234,
+          2892
         ],
         [
-          4336,
-          97
+          1404,
+          3083
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          5229,
-          832
+          5659,
+          1892
         ],
         [
-          5567,
-          1095
+          5809,
+          1800
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3264,
-          713
+          5538,
+          2571
         ],
         [
-          3555,
-          1071
+          5717,
+          2437
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4146,
-          1502
+          4684,
+          3329
         ],
         [
-          4460,
-          1773
+          4900,
+          3208
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3718,
-          2520
+          4938,
+          3367
         ],
         [
-          3484,
-          2325
+          5096,
+          3200
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          5202,
-          1962
+          1746,
+          3558
         ],
         [
-          5485,
-          2259
+          1967,
+          3425
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3910,
-          2986
+          1321,
+          3662
         ],
         [
-          4136,
-          3260
+          1471,
+          3458
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4222,
-          2960
+          1350,
+          912
         ],
         [
-          4448,
-          3167
+          1588,
+          1050
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4750,
-          3427
+          609,
+          1067
         ],
         [
-          5071,
-          3771
+          846,
+          929
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          5134,
-          3011
+          1717,
+          833
         ],
         [
-          5420,
-          3309
+          1904,
+          662
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          553,
-          1090
+          5575,
+          3562
         ],
         [
-          804,
-          1327
+          5738,
+          3362
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "Mais",
+      "label": "weizen",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3111,
-          1232
+          1492,
+          3900
         ],
         [
-          2799,
-          853
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2855,
-          492
-        ],
-        [
-          3171,
-          841
+          1696,
+          3704
         ]
       ],
       "shape_type": "rectangle"
@@ -319,8 +303,8 @@
     0,
     128
   ],
-  "imagePath": "..\\..\\Getreidesorten-SWTP2018\\Bilder_Korner_original_20180411\\mais\\DSC_0922.JPG",
+  "imagePath": "..\\DSC_0992.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016
-  }
+}

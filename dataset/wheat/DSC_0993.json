@@ -8,12 +8,12 @@
       "fill_color": null,
       "points": [
         [
-          1829,
-          2192
+          1900,
+          442
         ],
         [
-          2059,
-          2317
+          2046,
+          642
         ]
       ],
       "shape_type": "rectangle"
@@ -24,12 +24,12 @@
       "fill_color": null,
       "points": [
         [
-          1913,
-          2725
+          2975,
+          533
         ],
         [
-          2034,
-          2925
+          3167,
+          729
         ]
       ],
       "shape_type": "rectangle"
@@ -40,11 +40,11 @@
       "fill_color": null,
       "points": [
         [
-          3634,
-          3579
+          3134,
+          3617
         ],
         [
-          3396,
+          3367,
           3475
         ]
       ],
@@ -56,12 +56,12 @@
       "fill_color": null,
       "points": [
         [
-          1946,
-          242
+          4092,
+          2658
         ],
         [
-          2129,
-          83
+          4246,
+          2446
         ]
       ],
       "shape_type": "rectangle"
@@ -72,12 +72,12 @@
       "fill_color": null,
       "points": [
         [
-          4013,
-          192
+          1350,
+          3150
         ],
         [
-          4129,
-          425
+          1163,
+          3004
         ]
       ],
       "shape_type": "rectangle"
@@ -88,12 +88,12 @@
       "fill_color": null,
       "points": [
         [
-          954,
-          1442
+          3046,
+          3812
         ],
         [
-          1067,
-          1629
+          3242,
+          3708
         ]
       ],
       "shape_type": "rectangle"
@@ -104,12 +104,12 @@
       "fill_color": null,
       "points": [
         [
-          3150,
-          2321
+          5142,
+          3179
         ],
         [
-          3000,
-          2175
+          5371,
+          3021
         ]
       ],
       "shape_type": "rectangle"
@@ -120,12 +120,12 @@
       "fill_color": null,
       "points": [
         [
-          1042,
-          3421
+          4634,
+          2229
         ],
         [
-          1225,
-          3237
+          4834,
+          2042
         ]
       ],
       "shape_type": "rectangle"
@@ -136,12 +136,12 @@
       "fill_color": null,
       "points": [
         [
-          2363,
-          33
+          3309,
+          512
         ],
         [
-          2542,
-          187
+          3396,
+          279
         ]
       ],
       "shape_type": "rectangle"
@@ -152,12 +152,12 @@
       "fill_color": null,
       "points": [
         [
-          384,
-          1033
+          1842,
+          2229
         ],
         [
-          596,
-          1175
+          2025,
+          2442
         ]
       ],
       "shape_type": "rectangle"
@@ -168,12 +168,12 @@
       "fill_color": null,
       "points": [
         [
-          2959,
-          3521
+          5650,
+          25
         ],
         [
-          3159,
-          3650
+          5413,
+          158
         ]
       ],
       "shape_type": "rectangle"
@@ -191,7 +191,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1003.JPG",
+  "imagePath": "..\\DSC_0993.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016

@@ -3,177 +3,177 @@
   "flags": {},
   "shapes": [
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1829,
-          2192
+          888,
+          1525
         ],
         [
-          2059,
-          2317
+          1029,
+          1821
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1913,
+          938,
+          2621
+        ],
+        [
+          1242,
           2725
-        ],
-        [
-          2034,
-          2925
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3634,
-          3579
+          2834,
+          2421
         ],
         [
-          3396,
-          3475
+          2575,
+          2617
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1946,
-          242
+          1809,
+          2521
         ],
         [
-          2129,
-          83
+          2075,
+          2375
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          4013,
-          192
+          825,
+          3408
         ],
         [
-          4129,
-          425
+          1071,
+          3117
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          954,
-          1442
+          2788,
+          129
         ],
         [
-          1067,
-          1629
+          2967,
+          437
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          3150,
-          2321
+          3317,
+          779
         ],
         [
-          3000,
-          2175
+          3584,
+          925
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          1042,
-          3421
+          5009,
+          2404
         ],
         [
-          1225,
-          3237
+          5225,
+          2158
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2363,
-          33
+          1267,
+          3825
         ],
         [
-          2542,
-          187
+          1550,
+          3642
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          384,
-          1033
+          5442,
+          1558
         ],
         [
-          596,
-          1175
+          5654,
+          1283
         ]
       ],
       "shape_type": "rectangle"
     },
     {
-      "label": "weizen",
+      "label": "triticale",
       "line_color": null,
       "fill_color": null,
       "points": [
         [
-          2959,
-          3521
+          254,
+          1550
         ],
         [
-          3159,
-          3650
+          550,
+          1642
         ]
       ],
       "shape_type": "rectangle"
@@ -191,7 +191,7 @@
     0,
     128
   ],
-  "imagePath": "..\\DSC_1003.JPG",
+  "imagePath": "..\\DSC_1106.JPG",
   "imageData": null,
   "imageHeight": 4016,
   "imageWidth": 6016
