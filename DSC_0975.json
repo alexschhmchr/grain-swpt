@@ -1,0 +1,150 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2897,
+          1791
+        ],
+        [
+          3227,
+          2122
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          136,
+          1587
+        ],
+        [
+          425,
+          1861
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2113,
+          566
+        ],
+        [
+          1820,
+          259
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2467,
+          1061
+        ],
+        [
+          2797,
+          1338
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1983,
+          1733
+        ],
+        [
+          2271,
+          2022
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5560,
+          431
+        ],
+        [
+          5741,
+          752
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5813,
+          3122
+        ],
+        [
+          5506,
+          2796
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4711,
+          136
+        ],
+        [
+          4955,
+          440
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\Bilder_Korner_original_20180411\\mais\\DSC_0975.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}

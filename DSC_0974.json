@@ -1,0 +1,198 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1199,
+          1587
+        ],
+        [
+          1509,
+          1915
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2164,
+          1433
+        ],
+        [
+          2543,
+          1743
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4132,
+          829
+        ],
+        [
+          4439,
+          452
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4002,
+          2896
+        ],
+        [
+          3706,
+          3171
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4883,
+          3280
+        ],
+        [
+          5199,
+          3559
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5592,
+          3394
+        ],
+        [
+          5976,
+          3675
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1388,
+          2959
+        ],
+        [
+          1715,
+          2636
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1888,
+          3408
+        ],
+        [
+          2099,
+          3745
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4025,
+          3805
+        ],
+        [
+          4283,
+          3471
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3704,
+          3489
+        ],
+        [
+          3983,
+          3836
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3309,
+          3566
+        ],
+        [
+          3578,
+          3796
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\Bilder_Korner_original_20180411\\mais\\DSC_0974.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}
