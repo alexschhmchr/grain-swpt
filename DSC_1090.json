@@ -1,0 +1,134 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          376,
+          2854
+        ],
+        [
+          160,
+          3033
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1269,
+          268
+        ],
+        [
+          997,
+          180
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          376,
+          38
+        ],
+        [
+          220,
+          250
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5460,
+          3203
+        ],
+        [
+          5313,
+          3471
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4050,
+          108
+        ],
+        [
+          3834,
+          282
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5692,
+          582
+        ],
+        [
+          5518,
+          808
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4681,
+          257
+        ],
+        [
+          4785,
+          0
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\Bilder_Korner_original_20180411\\roggen\\DSC_1090.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}

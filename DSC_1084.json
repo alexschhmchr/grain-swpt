@@ -1,0 +1,118 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          574,
+          2761
+        ],
+        [
+          462,
+          2540
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          611,
+          2785
+        ],
+        [
+          418,
+          2966
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5713,
+          2661
+        ],
+        [
+          5574,
+          2933
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5704,
+          19
+        ],
+        [
+          5525,
+          273
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          967,
+          40
+        ],
+        [
+          1243,
+          129
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "roggen",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2785,
+          3182
+        ],
+        [
+          2609,
+          3040
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\Bilder_Korner_original_20180411\\roggen\\DSC_1084.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}
