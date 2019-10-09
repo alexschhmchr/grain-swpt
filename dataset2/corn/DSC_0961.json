@@ -1,0 +1,243 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3100.0,
+          1337.0
+        ],
+        [
+          3490.0,
+          1634.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2620.0,
+          1790.0
+        ],
+        [
+          2386.0,
+          1587.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          789.0,
+          3608.0
+        ],
+        [
+          545.0,
+          3299.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3098.0,
+          592.0
+        ],
+        [
+          2840.0,
+          261.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4177.0,
+          2353.0
+        ],
+        [
+          3891.0,
+          2056.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3064.0,
+          3065.0
+        ],
+        [
+          2786.0,
+          2701.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1648.0,
+          3805.0
+        ],
+        [
+          1449.0,
+          3512.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "None",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2211.142857142857,
+          2268.7142857142853
+        ],
+        [
+          1914.0,
+          2528.7142857142853
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "None",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1325.4285714285713,
+          2137.285714285714
+        ],
+        [
+          1608.2857142857142,
+          2477.285714285714
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "None",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3322.571428571428,
+          2902.9999999999995
+        ],
+        [
+          3665.4285714285706,
+          3288.7142857142853
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "None",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3936.857142857142,
+          2511.5714285714284
+        ],
+        [
+          4319.714285714285,
+          2817.285714285714
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "None",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5013.999999999999,
+          1065.8571428571427
+        ],
+        [
+          5608.285714285714,
+          1582.9999999999998
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "None",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5493.999999999999,
+          263.0
+        ],
+        [
+          5848.285714285714,
+          0.14285714285714235
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\..\\..\\Desktop\\Bilder_Korner_original_20180411\\mais\\DSC_0961.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}

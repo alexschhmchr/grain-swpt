@@ -1,0 +1,134 @@
+{
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5790,
+          619
+        ],
+        [
+          6007,
+          729
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4607,
+          436
+        ],
+        [
+          4481,
+          698
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2133,
+          705
+        ],
+        [
+          1793,
+          826
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3014,
+          1288
+        ],
+        [
+          2850,
+          1533
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4360,
+          1321
+        ],
+        [
+          4114,
+          1486
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2117,
+          2817
+        ],
+        [
+          1914,
+          3055
+        ]
+      ],
+      "shape_type": "rectangle"
+    },
+    {
+      "label": "trictale",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5662,
+          2895
+        ],
+        [
+          5831,
+          3133
+        ]
+      ],
+      "shape_type": "rectangle"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "DSC_1131.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
+}
