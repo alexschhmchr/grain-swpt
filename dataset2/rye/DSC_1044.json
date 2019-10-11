@@ -1,198 +1,198 @@
 {
-  "version": "3.6.16",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5520,
-          2504
-        ],
-        [
-          5197,
-          2388
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          883,
-          2971
-        ],
-        [
-          1143,
-          3144
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2790,
-          1762
-        ],
-        [
-          3032,
-          1597
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2697,
-          3067
-        ],
-        [
-          2895,
-          2820
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1439,
-          541
-        ],
-        [
-          1171,
-          730
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2362,
-          2962
-        ],
-        [
-          2255,
-          2704
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          881,
-          1876
-        ],
-        [
-          755,
-          2106
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4881,
-          309
-        ],
-        [
-          4648,
-          169
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2271,
-          527
-        ],
-        [
-          2148,
-          746
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          899,
-          1346
-        ],
-        [
-          1025,
-          1537
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "roggen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5778,
-          1353
-        ],
-        [
-          5999,
-          1134
-        ]
-      ],
-      "shape_type": "rectangle"
-    }
-  ],
-  "lineColor": [
-    0,
-    255,
-    0,
-    128
-  ],
-  "fillColor": [
-    255,
-    0,
-    0,
-    128
-  ],
-  "imagePath": "..\\..\\Getreidesorten-SWTP2018\\Bilder_Korner_original_20180411\\roggen\\DSC_1044.JPG",
-  "imageData": null,
-  "imageHeight": 4016,
-  "imageWidth": 6016
+	"version": "3.6.16",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5520,
+					2504
+				],
+				[
+					5197,
+					2388
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					883,
+					2971
+				],
+				[
+					1143,
+					3144
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2790,
+					1762
+				],
+				[
+					3032,
+					1597
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2697,
+					3067
+				],
+				[
+					2895,
+					2820
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1439,
+					541
+				],
+				[
+					1171,
+					730
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2362,
+					2962
+				],
+				[
+					2255,
+					2704
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					881,
+					1876
+				],
+				[
+					755,
+					2106
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4881,
+					309
+				],
+				[
+					4648,
+					169
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2271,
+					527
+				],
+				[
+					2148,
+					746
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					899,
+					1346
+				],
+				[
+					1025,
+					1537
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "roggen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5778,
+					1353
+				],
+				[
+					5999,
+					1134
+				]
+			],
+			"shape_type": "rectangle"
+		}
+	],
+	"lineColor": [
+		0,
+		255,
+		0,
+		128
+	],
+	"fillColor": [
+		255,
+		0,
+		0,
+		128
+	],
+	"imagePath": "DSC_1044.JPG",
+	"imageData": null,
+	"imageHeight": 4016,
+	"imageWidth": 6016
 }
