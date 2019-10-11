@@ -1,246 +1,246 @@
 {
-  "version": "3.6.16",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2720,
-          1038
-        ],
-        [
-          2492,
-          1191
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4476,
-          3419
-        ],
-        [
-          4636,
-          3640
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5050,
-          3496
-        ],
-        [
-          4876,
-          3675
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          325,
-          2824
-        ],
-        [
-          225,
-          3036
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          225,
-          1171
-        ],
-        [
-          443,
-          1303
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1890,
-          1878
-        ],
-        [
-          1767,
-          1757
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "wheat",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4795,
-          405
-        ],
-        [
-          4674,
-          247
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3634,
-          2852
-        ],
-        [
-          3474,
-          2950
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "wheat",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5702,
-          550
-        ],
-        [
-          5478,
-          703
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5718,
-          1536
-        ],
-        [
-          5492,
-          1415
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4504,
-          115
-        ],
-        [
-          4350,
-          326
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5202,
-          1
-        ],
-        [
-          5427,
-          101
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3706,
-          1433
-        ],
-        [
-          3564,
-          1266
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          848,
-          2387
-        ],
-        [
-          643,
-          2505
-        ]
-      ],
-      "shape_type": "rectangle"
-    }
-  ],
-  "lineColor": [
-    0,
-    255,
-    0,
-    128
-  ],
-  "fillColor": [
-    255,
-    0,
-    0,
-    128
-  ],
-  "imagePath": "..\\..\\Bilder_Korner_original_20180411\\weizen\\DSC_0977.JPG",
-  "imageData": null,
-  "imageHeight": 4016,
-  "imageWidth": 6016
+	"version": "3.6.16",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2720,
+					1038
+				],
+				[
+					2492,
+					1191
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4476,
+					3419
+				],
+				[
+					4636,
+					3640
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5050,
+					3496
+				],
+				[
+					4876,
+					3675
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					325,
+					2824
+				],
+				[
+					225,
+					3036
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					225,
+					1171
+				],
+				[
+					443,
+					1303
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1890,
+					1878
+				],
+				[
+					1767,
+					1757
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "wheat",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4795,
+					405
+				],
+				[
+					4674,
+					247
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3634,
+					2852
+				],
+				[
+					3474,
+					2950
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "wheat",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5702,
+					550
+				],
+				[
+					5478,
+					703
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5718,
+					1536
+				],
+				[
+					5492,
+					1415
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4504,
+					115
+				],
+				[
+					4350,
+					326
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5202,
+					1
+				],
+				[
+					5427,
+					101
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3706,
+					1433
+				],
+				[
+					3564,
+					1266
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					848,
+					2387
+				],
+				[
+					643,
+					2505
+				]
+			],
+			"shape_type": "rectangle"
+		}
+	],
+	"lineColor": [
+		0,
+		255,
+		0,
+		128
+	],
+	"fillColor": [
+		255,
+		0,
+		0,
+		128
+	],
+	"imagePath": "DSC_0977.JPG",
+	"imageData": null,
+	"imageHeight": 4016,
+	"imageWidth": 6016
 }

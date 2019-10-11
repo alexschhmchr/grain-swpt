@@ -1,118 +1,118 @@
 {
-  "version": "3.6.16",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "trictale",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5162,
-          598
-        ],
-        [
-          4931,
-          736
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "trictale",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3529,
-          1086
-        ],
-        [
-          3795,
-          1214
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "trictale",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4648,
-          2129
-        ],
-        [
-          4888,
-          2340
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "trictale",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2031,
-          1124
-        ],
-        [
-          2300,
-          1307
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "trictale",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2367,
-          3226
-        ],
-        [
-          2590,
-          3505
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "trictale",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3733,
-          2979
-        ],
-        [
-          3502,
-          3090
-        ]
-      ],
-      "shape_type": "rectangle"
-    }
-  ],
-  "lineColor": [
-    0,
-    255,
-    0,
-    128
-  ],
-  "fillColor": [
-    255,
-    0,
-    0,
-    128
-  ],
-  "imagePath": "DSC_1135.JPG",
-  "imageData": null,
-  "imageHeight": 4016,
-  "imageWidth": 6016
+	"version": "3.6.16",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "trictale",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5162,
+					598
+				],
+				[
+					4931,
+					736
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "trictale",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3529,
+					1086
+				],
+				[
+					3795,
+					1214
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "trictale",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4648,
+					2129
+				],
+				[
+					4888,
+					2340
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "trictale",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2031,
+					1124
+				],
+				[
+					2300,
+					1307
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "trictale",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2367,
+					3226
+				],
+				[
+					2590,
+					3505
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "trictale",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3733,
+					2979
+				],
+				[
+					3502,
+					3090
+				]
+			],
+			"shape_type": "rectangle"
+		}
+	],
+	"lineColor": [
+		0,
+		255,
+		0,
+		128
+	],
+	"fillColor": [
+		255,
+		0,
+		0,
+		128
+	],
+	"imagePath": "DSC_1135.JPG",
+	"imageData": null,
+	"imageHeight": 4016,
+	"imageWidth": 6016
 }

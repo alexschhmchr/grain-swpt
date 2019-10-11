@@ -1,214 +1,214 @@
 {
-  "version": "3.6.16",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5411,
-          133
-        ],
-        [
-          5172,
-          259
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5654,
-          811
-        ],
-        [
-          5470,
-          928
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5765,
-          1041
-        ],
-        [
-          5539,
-          1202
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3396,
-          1215
-        ],
-        [
-          3172,
-          1343
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4278,
-          1076
-        ],
-        [
-          4067,
-          1211
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5089,
-          504
-        ],
-        [
-          5302,
-          657
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1765,
-          680
-        ],
-        [
-          1924,
-          872
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1980,
-          880
-        ],
-        [
-          1843,
-          1067
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2070,
-          2904
-        ],
-        [
-          2265,
-          3089
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2002,
-          3604
-        ],
-        [
-          1837,
-          3800
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4028,
-          2493
-        ],
-        [
-          4237,
-          2635
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5078,
-          1076
-        ],
-        [
-          4939,
-          1272
-        ]
-      ],
-      "shape_type": "rectangle"
-    }
-  ],
-  "lineColor": [
-    0,
-    255,
-    0,
-    128
-  ],
-  "fillColor": [
-    255,
-    0,
-    0,
-    128
-  ],
-  "imagePath": "DSC_1016.JPG",
-  "imageData": null,
-  "imageHeight": 4016,
-  "imageWidth": 6016
+	"version": "3.6.16",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5411,
+					133
+				],
+				[
+					5172,
+					259
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5654,
+					811
+				],
+				[
+					5470,
+					928
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5765,
+					1041
+				],
+				[
+					5539,
+					1202
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3396,
+					1215
+				],
+				[
+					3172,
+					1343
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4278,
+					1076
+				],
+				[
+					4067,
+					1211
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5089,
+					504
+				],
+				[
+					5302,
+					657
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1765,
+					680
+				],
+				[
+					1924,
+					872
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1980,
+					880
+				],
+				[
+					1843,
+					1067
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2070,
+					2904
+				],
+				[
+					2265,
+					3089
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2002,
+					3604
+				],
+				[
+					1837,
+					3800
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4028,
+					2493
+				],
+				[
+					4237,
+					2635
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5078,
+					1076
+				],
+				[
+					4939,
+					1272
+				]
+			],
+			"shape_type": "rectangle"
+		}
+	],
+	"lineColor": [
+		0,
+		255,
+		0,
+		128
+	],
+	"fillColor": [
+		255,
+		0,
+		0,
+		128
+	],
+	"imagePath": "DSC_1016.JPG",
+	"imageData": null,
+	"imageHeight": 4016,
+	"imageWidth": 6016
 }

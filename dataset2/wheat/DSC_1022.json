@@ -1,86 +1,86 @@
 {
-  "version": "3.6.16",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1087,
-          693
-        ],
-        [
-          1261,
-          817
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4626,
-          89
-        ],
-        [
-          4813,
-          285
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5580,
-          815
-        ],
-        [
-          5750,
-          1004
-        ]
-      ],
-      "shape_type": "rectangle"
-    },
-    {
-      "label": "weizen",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2320,
-          3817
-        ],
-        [
-          2520,
-          3987
-        ]
-      ],
-      "shape_type": "rectangle"
-    }
-  ],
-  "lineColor": [
-    0,
-    255,
-    0,
-    128
-  ],
-  "fillColor": [
-    255,
-    0,
-    0,
-    128
-  ],
-  "imagePath": "DSC_1022.JPG",
-  "imageData": null,
-  "imageHeight": 4016,
-  "imageWidth": 6016
+	"version": "3.6.16",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1087,
+					693
+				],
+				[
+					1261,
+					817
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4626,
+					89
+				],
+				[
+					4813,
+					285
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5580,
+					815
+				],
+				[
+					5750,
+					1004
+				]
+			],
+			"shape_type": "rectangle"
+		},
+		{
+			"label": "weizen",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2320,
+					3817
+				],
+				[
+					2520,
+					3987
+				]
+			],
+			"shape_type": "rectangle"
+		}
+	],
+	"lineColor": [
+		0,
+		255,
+		0,
+		128
+	],
+	"fillColor": [
+		255,
+		0,
+		0,
+		128
+	],
+	"imagePath": "DSC_1022.JPG",
+	"imageData": null,
+	"imageHeight": 4016,
+	"imageWidth": 6016
 }

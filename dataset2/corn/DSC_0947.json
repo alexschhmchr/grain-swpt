@@ -1,192 +1,192 @@
 {
-  "version": "3.6.16",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1684.0,
-          1846.0
-        ],
-        [
-          1963.0,
-          2158.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3984.0,
-          2562.0
-        ],
-        [
-          4334.0,
-          2892.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4734.0,
-          1862.0
-        ],
-        [
-          5000.0,
-          2158.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          104.0,
-          2737.0
-        ],
-        [
-          429.0,
-          3029.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1225.0,
-          3525.0
-        ],
-        [
-          1600.0,
-          3737.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2388.0,
-          3150.0
-        ],
-        [
-          2671.0,
-          3358.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5017.0,
-          721.0
-        ],
-        [
-          5367.0,
-          933.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          5150.0,
-          1625.0
-        ],
-        [
-          5475.0,
-          1871.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "None",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2525.428571428571,
-          231.57142857142856
-        ],
-        [
-          2853,
-          0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "None",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2951.142857142857,
-          3794.428571428571
-        ],
-        [
-          3313,
-          4015
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    }
-  ],
-  "lineColor": [
-    0,
-    255,
-    0,
-    128
-  ],
-  "fillColor": [
-    255,
-    0,
-    0,
-    128
-  ],
-  "imagePath": "..\\..\\..\\..\\Desktop\\Bilder_Korner_original_20180411\\mais\\DSC_0947.JPG",
-  "imageData": null,
-  "imageHeight": 4016,
-  "imageWidth": 6016
+	"version": "3.6.16",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1684.0,
+					1846.0
+				],
+				[
+					1963.0,
+					2158.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3984.0,
+					2562.0
+				],
+				[
+					4334.0,
+					2892.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4734.0,
+					1862.0
+				],
+				[
+					5000.0,
+					2158.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					104.0,
+					2737.0
+				],
+				[
+					429.0,
+					3029.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1225.0,
+					3525.0
+				],
+				[
+					1600.0,
+					3737.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2388.0,
+					3150.0
+				],
+				[
+					2671.0,
+					3358.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5017.0,
+					721.0
+				],
+				[
+					5367.0,
+					933.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					5150.0,
+					1625.0
+				],
+				[
+					5475.0,
+					1871.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "None",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2525.428571428571,
+					231.57142857142856
+				],
+				[
+					2853,
+					0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "None",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2951.142857142857,
+					3794.428571428571
+				],
+				[
+					3313,
+					4015
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		}
+	],
+	"lineColor": [
+		0,
+		255,
+		0,
+		128
+	],
+	"fillColor": [
+		255,
+		0,
+		0,
+		128
+	],
+	"imagePath": "DSC_0947.JPG",
+	"imageData": null,
+	"imageHeight": 4016,
+	"imageWidth": 6016
 }

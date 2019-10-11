@@ -1,158 +1,158 @@
 {
-  "version": "3.6.16",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1148.0,
-          1329.0
-        ],
-        [
-          1461.0,
-          1716.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          694.0,
-          2200.0
-        ],
-        [
-          977.0,
-          2490.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1758.0,
-          2274.0
-        ],
-        [
-          2065.0,
-          2558.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4797.0,
-          955.0
-        ],
-        [
-          5097.0,
-          1223.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4774.0,
-          3158.0
-        ],
-        [
-          5052.0,
-          3465.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4184.0,
-          3316.0
-        ],
-        [
-          4548.0,
-          3613.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3723.0,
-          3116.0
-        ],
-        [
-          3977.0,
-          3410.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "None",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          493.9999999999999,
-          3760.142857142857
-        ],
-        [
-          833.9999999999998,
-          4011.571428571428
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    }
-  ],
-  "lineColor": [
-    0,
-    255,
-    0,
-    128
-  ],
-  "fillColor": [
-    255,
-    0,
-    0,
-    128
-  ],
-  "imagePath": "..\\..\\..\\..\\Desktop\\Bilder_Korner_original_20180411\\mais\\DSC_0954.JPG",
-  "imageData": null,
-  "imageHeight": 4016,
-  "imageWidth": 6016
+	"version": "3.6.16",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1148.0,
+					1329.0
+				],
+				[
+					1461.0,
+					1716.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					694.0,
+					2200.0
+				],
+				[
+					977.0,
+					2490.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1758.0,
+					2274.0
+				],
+				[
+					2065.0,
+					2558.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4797.0,
+					955.0
+				],
+				[
+					5097.0,
+					1223.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4774.0,
+					3158.0
+				],
+				[
+					5052.0,
+					3465.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4184.0,
+					3316.0
+				],
+				[
+					4548.0,
+					3613.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3723.0,
+					3116.0
+				],
+				[
+					3977.0,
+					3410.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "None",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					493.9999999999999,
+					3760.142857142857
+				],
+				[
+					833.9999999999998,
+					4011.571428571428
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		}
+	],
+	"lineColor": [
+		0,
+		255,
+		0,
+		128
+	],
+	"fillColor": [
+		255,
+		0,
+		0,
+		128
+	],
+	"imagePath": "DSC_0954.JPG",
+	"imageData": null,
+	"imageHeight": 4016,
+	"imageWidth": 6016
 }

@@ -1,243 +1,243 @@
 {
-  "version": "3.6.16",
-  "flags": {},
-  "shapes": [
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          355.0,
-          2544.0
-        ],
-        [
-          634.0,
-          2825.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1204.0,
-          2237.0
-        ],
-        [
-          915.0,
-          1865.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2134.0,
-          3146.0
-        ],
-        [
-          2402.0,
-          3423.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          1802.0,
-          3599.0
-        ],
-        [
-          1932.0,
-          3751.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3348.0,
-          2158.0
-        ],
-        [
-          3650.0,
-          2451.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3095.0,
-          1455.0
-        ],
-        [
-          3395.0,
-          1771.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3908.0,
-          485.0
-        ],
-        [
-          4178.0,
-          746.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          4536.0,
-          365.0
-        ],
-        [
-          4827.0,
-          706.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2690.0,
-          76.0
-        ],
-        [
-          2897.0,
-          255.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2515.0,
-          513.0
-        ],
-        [
-          2857.0,
-          781.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "Mais",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          3195.0,
-          971.0
-        ],
-        [
-          2853.0,
-          655.0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "None",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          2139.7142857142853,
-          214.42857142857142
-        ],
-        [
-          1818,
-          0
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "None",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          336.8571428571428,
-          1411.5714285714284
-        ],
-        [
-          0,
-          1822
-        ]
-      ],
-      "shape_type": "rectangle",
-      "flags": {}
-    }
-  ],
-  "lineColor": [
-    0,
-    255,
-    0,
-    128
-  ],
-  "fillColor": [
-    255,
-    0,
-    0,
-    128
-  ],
-  "imagePath": "..\\..\\..\\..\\Desktop\\Bilder_Korner_original_20180411\\mais\\DSC_0930.JPG",
-  "imageData": null,
-  "imageHeight": 4016,
-  "imageWidth": 6016
+	"version": "3.6.16",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					355.0,
+					2544.0
+				],
+				[
+					634.0,
+					2825.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1204.0,
+					2237.0
+				],
+				[
+					915.0,
+					1865.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2134.0,
+					3146.0
+				],
+				[
+					2402.0,
+					3423.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					1802.0,
+					3599.0
+				],
+				[
+					1932.0,
+					3751.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3348.0,
+					2158.0
+				],
+				[
+					3650.0,
+					2451.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3095.0,
+					1455.0
+				],
+				[
+					3395.0,
+					1771.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3908.0,
+					485.0
+				],
+				[
+					4178.0,
+					746.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					4536.0,
+					365.0
+				],
+				[
+					4827.0,
+					706.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2690.0,
+					76.0
+				],
+				[
+					2897.0,
+					255.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2515.0,
+					513.0
+				],
+				[
+					2857.0,
+					781.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Mais",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					3195.0,
+					971.0
+				],
+				[
+					2853.0,
+					655.0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "None",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					2139.7142857142853,
+					214.42857142857142
+				],
+				[
+					1818,
+					0
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "None",
+			"line_color": null,
+			"fill_color": null,
+			"points": [
+				[
+					336.8571428571428,
+					1411.5714285714284
+				],
+				[
+					0,
+					1822
+				]
+			],
+			"shape_type": "rectangle",
+			"flags": {}
+		}
+	],
+	"lineColor": [
+		0,
+		255,
+		0,
+		128
+	],
+	"fillColor": [
+		255,
+		0,
+		0,
+		128
+	],
+	"imagePath": "DSC_0930.JPG",
+	"imageData": null,
+	"imageHeight": 4016,
+	"imageWidth": 6016
 }
