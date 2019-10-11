@@ -1,342 +1,328 @@
 {
-	"version": "3.6.16",
-	"flags": {},
-	"shapes": [
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					1496,
-					2887
-				],
-				[
-					1809,
-					3162
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					1729,
-					2442
-				],
-				[
-					2017,
-					2808
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					2100,
-					2925
-				],
-				[
-					2354,
-					3225
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					1704,
-					737
-				],
-				[
-					1975,
-					1083
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					2529,
-					2437
-				],
-				[
-					2825,
-					2650
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					1879,
-					3150
-				],
-				[
-					2221,
-					3471
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					2554,
-					1121
-				],
-				[
-					2834,
-					1421
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					3342,
-					2683
-				],
-				[
-					3646,
-					3037
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					3704,
-					3167
-				],
-				[
-					4000,
-					2821
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4579,
-					3337
-				],
-				[
-					4767,
-					3533
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4813,
-					3717
-				],
-				[
-					5088,
-					3408
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					5254,
-					3879
-				],
-				[
-					5688,
-					4015
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					5813,
-					2525
-				],
-				[
-					6015,
-					2887
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4163,
-					304
-				],
-				[
-					4488,
-					692
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4554,
-					579
-				],
-				[
-					4871,
-					946
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4284,
-					737
-				],
-				[
-					4575,
-					979
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4634,
-					1250
-				],
-				[
-					4304,
-					917
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					5954,
-					250
-				],
-				[
-					5646,
-					0
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4234,
-					1929
-				],
-				[
-					4363,
-					2037
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4400,
-					2283
-				],
-				[
-					4509,
-					2404
-				]
-			],
-			"shape_type": "rectangle"
-		}
-	],
-	"lineColor": [
-		0,
-		255,
-		0,
-		128
-	],
-	"fillColor": [
-		255,
-		0,
-		0,
-		128
-	],
-	"imagePath": "DSC_0936.JPG",
-	"imageData": null,
-	"imageHeight": 4016,
-	"imageWidth": 6016
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1496.0,
+          2887.0
+        ],
+        [
+          1809.0,
+          3162.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1729.0,
+          2442.0
+        ],
+        [
+          2017.0,
+          2808.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2100.0,
+          2925.0
+        ],
+        [
+          2354.0,
+          3225.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1704.0,
+          737.0
+        ],
+        [
+          1975.0,
+          1083.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2503.389830508475,
+          2440.677966101695
+        ],
+        [
+          2825.0,
+          2650.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1868.4210526315787,
+          3164.912280701754
+        ],
+        [
+          2221.0,
+          3471.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2554.0,
+          1121.0
+        ],
+        [
+          2834.0,
+          1421.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3342.0,
+          2683.0
+        ],
+        [
+          3646.0,
+          3037.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3706.060606060606,
+          3183.333333333333
+        ],
+        [
+          4000.0,
+          2821.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4579.0,
+          3337.0
+        ],
+        [
+          4767.0,
+          3533.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4813.0,
+          3717.0
+        ],
+        [
+          5088.0,
+          3408.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Half",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5254.0,
+          3879.0
+        ],
+        [
+          5688.0,
+          4015.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Half",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5813.0,
+          2525.0
+        ],
+        [
+          6015.0,
+          2887.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4183.333333333333,
+          322.7272727272727
+        ],
+        [
+          4488.0,
+          692.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4554.054054054054,
+          609.4594594594595
+        ],
+        [
+          4878.378378378378,
+          959.4594594594595
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4295.945945945946,
+          747.2972972972973
+        ],
+        [
+          4574.324324324324,
+          947.2972972972973
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4667.567567567568,
+          1221.6216216216214
+        ],
+        [
+          4298.594594594595,
+          927.8108108108104
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Half",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5954.0,
+          250.0
+        ],
+        [
+          5646.0,
+          0.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\..\\..\\Desktop\\Bilder_Korner_original_20180411\\mais\\DSC_0936.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
 }

@@ -1,134 +1,141 @@
 {
-	"version": "3.6.16",
-	"flags": {},
-	"shapes": [
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					1216,
-					1218
-				],
-				[
-					1556,
-					1522
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					3712,
-					1498
-				],
-				[
-					3992,
-					1830
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					5168,
-					2386
-				],
-				[
-					4812,
-					2630
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					4312,
-					3146
-				],
-				[
-					3992,
-					3438
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					2984,
-					2950
-				],
-				[
-					2648,
-					3238
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					1972,
-					3630
-				],
-				[
-					1676,
-					4010
-				]
-			],
-			"shape_type": "rectangle"
-		},
-		{
-			"label": "mais",
-			"line_color": null,
-			"fill_color": null,
-			"points": [
-				[
-					5992,
-					2718
-				],
-				[
-					5700,
-					3034
-				]
-			],
-			"shape_type": "rectangle"
-		}
-	],
-	"lineColor": [
-		0,
-		255,
-		0,
-		128
-	],
-	"fillColor": [
-		255,
-		0,
-		0,
-		128
-	],
-	"imagePath": "DSC_0948.JPG",
-	"imageData": null,
-	"imageHeight": 4016,
-	"imageWidth": 6016
+  "version": "3.6.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1221.0645161290322,
+          1281.2258064516127
+        ],
+        [
+          1556.0,
+          1522.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          3712.0,
+          1498.0
+        ],
+        [
+          3992.0,
+          1830.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          5168.0,
+          2386.0
+        ],
+        [
+          4812.0,
+          2630.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          4312.0,
+          3146.0
+        ],
+        [
+          3992.0,
+          3438.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          2984.0,
+          2950.0
+        ],
+        [
+          2648.0,
+          3238.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1972.0,
+          3630.0
+        ],
+        [
+          1676.0,
+          4010.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mais",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          6001.709677419355,
+          2739.2903225806454
+        ],
+        [
+          5700.0,
+          3034.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "..\\..\\..\\..\\Desktop\\Bilder_Korner_original_20180411\\mais\\DSC_0948.JPG",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 6016
 }
